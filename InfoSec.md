@@ -7,6 +7,8 @@
 
 [Cowrie Honeypot](https://github.com/cowrie/cowrie)
 
+[Cilium - K8s Network Security](https://cilium.io/)
+
 ## Training
 
 [Pico CTF](https://www.picoctf.org/)
