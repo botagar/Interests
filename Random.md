@@ -5,3 +5,5 @@
 [Houska Castle - Haunted over the Gates of Hell](https://en.wikipedia.org/wiki/Houska_Castle)
 
 [Logistics Map - Parent of Mandelbrot Set](https://en.wikipedia.org/wiki/Logistic_map)
+
+[Bismuth Mushroom Sculpture](https://www.thebismuthsmith.com/product/large-mushroom/)
