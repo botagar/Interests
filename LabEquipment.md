@@ -17,6 +17,10 @@
 
 [Smooth Steel Rods](https://www.aliexpress.com/item/32765592015.html)
 
+[Flex Drive Shaft Cable](https://www.alibaba.com/product-detail/High-quality-flexible-drive-shaft-cable_60736214549.html)
+
 ## Idea's to research and design
 
 * SMD Soldering Rig
+
+* Flex drive shaft/cable driven robot arm
