@@ -7,3 +7,7 @@
 [Logistics Map - Parent of Mandelbrot Set](https://en.wikipedia.org/wiki/Logistic_map)
 
 [Bismuth Mushroom Sculpture](https://www.thebismuthsmith.com/product/large-mushroom/)
+
+## Interesting Materials
+
+[Muslin](https://en.wikipedia.org/wiki/Muslin)
