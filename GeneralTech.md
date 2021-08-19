@@ -13,3 +13,7 @@
 [Cool Simple Simulations](https://sagejenson.com/physarum)
 
 [Free Domains](https://www.freenom.com/en/index.html?lang=en)
+
+## Induction heater components
+
+[Litz Wire](https://en.wikipedia.org/wiki/Litz_wire)
