@@ -11,3 +11,9 @@
 ## Interesting Materials
 
 [Muslin](https://en.wikipedia.org/wiki/Muslin)
+
+## Outdoors and Camping
+
+[Tent Camping Cot](https://www.onetigris.com/foldable-camping-cot.html)
+
+[Tent Bathtub Flooring](https://www.onetigris.com/tent-bathtub-floor.html)
