@@ -5,6 +5,12 @@
 
 [Ultrasonic Cleaner](https://www.ebay.com.au/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=ultrasonic+cleaner&_sacat=0)
 
+## General Equipment
+
+[High Quality Scissors - KAI](https://kaiscissors.com/)
+
+[High Quality Scissors - Gingher](https://gingher.com/)
+
 ## Structural/Rails
 
 [DIN Rails](https://duckduckgo.com/?t=ffab&q=DIN+rails&ia=web)
