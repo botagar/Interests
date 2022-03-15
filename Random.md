@@ -17,3 +17,7 @@
 [Tent Camping Cot](https://www.onetigris.com/foldable-camping-cot.html)
 
 [Tent Bathtub Flooring](https://www.onetigris.com/tent-bathtub-floor.html)
+
+## Stickers
+
+(Catter Plot)[https://www.redbubble.com/i/sticker/Catter-plot-by-visualizards/43450783.O9UDB]
