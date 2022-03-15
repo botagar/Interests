@@ -25,6 +25,12 @@
 
 [Flex Drive Shaft Cable](https://www.alibaba.com/product-detail/High-quality-flexible-drive-shaft-cable_60736214549.html)
 
+## Optics
+
+[Spectrometer](https://www.ebay.com.au/itm/283550563411)
+
+[Collimator](https://www.ebay.com.au/itm/283987152120)
+
 ## Idea's to research and design
 
 * SMD Soldering Rig
