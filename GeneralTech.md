@@ -14,6 +14,8 @@
 
 [Free Domains](https://www.freenom.com/en/index.html?lang=en)
 
+[Docker CLI Replacement](https://github.com/containerd/nerdctl)
+
 ## Induction heater components
 
 [Litz Wire](https://en.wikipedia.org/wiki/Litz_wire)
