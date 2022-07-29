@@ -16,6 +16,8 @@
 
 [Docker CLI Replacement](https://github.com/containerd/nerdctl)
 
+[GlusterFS - Network File System](https://www.gluster.org/)
+
 ## Induction heater components
 
 [Litz Wire](https://en.wikipedia.org/wiki/Litz_wire)
