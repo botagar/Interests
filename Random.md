@@ -21,3 +21,7 @@
 ## Stickers
 
 (Catter Plot)[https://www.redbubble.com/i/sticker/Catter-plot-by-visualizards/43450783.O9UDB]
+
+
+## Fluid Sims
+(Quick overview)[https://www.youtube.com/watch?v=qsYE1wMEMPA]
