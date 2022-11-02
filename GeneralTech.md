@@ -18,6 +18,10 @@
 
 [GlusterFS - Network File System](https://www.gluster.org/)
 
+[Giga Voxels](https://maverick.inria.fr/Publications/2009/CNLE09/CNLE09.pdf)
+
+[Plant ecosystem modelling](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html)
+
 ## Induction heater components
 
 [Litz Wire](https://en.wikipedia.org/wiki/Litz_wire)
